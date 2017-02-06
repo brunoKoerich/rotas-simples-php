@@ -1,0 +1,8 @@
+{
+    "autoload":{
+        "psr-4":{
+            "app\\": "app/",
+            "vendor\\": "vendor/"
+        }
+    }
+}/*Para adicionar um novo diretorio copiar + uma linha com os nomes e usar o comando:composer dump-autoload.(remover estes comentarios antes do dump)*/
